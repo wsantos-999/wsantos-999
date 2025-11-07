@@ -9,6 +9,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 - 🌐 HTML | CSS | JavaScript
 - 🐍 Python
+- 🎨 Figma | Photoshop
 
 ## Nos meus momentos livres, gosto de:
 - 🎮 **Jogar jogos online** 
