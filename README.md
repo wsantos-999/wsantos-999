@@ -19,4 +19,4 @@
 - 🎨 **Desenhar**
   
 ## 🌐 Meu Portfólio
-Acesse: [https://wsantos-999.github.io/portfolio-site/](https://wsantos-999.github.io/portfolio-site/)
+Acesse: https://wsantos-999.github.io/dev-portfolio/
